@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to Rahul Kumar profile!
+  Welcome to Praduman Kumar profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -15,8 +15,8 @@
   <li>I am Rahul Kumar, a 23 year old guy who loves💖 to code</li>
   <li>I am a freelance full-stack developer 🖥️</li>
   <li>Currently, scratching my head in learning DevOps 😅</li>
-  <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
-  <li><b>Marital status:</b> Married with Next.js 💖</li>
+  <li>I am persuing my B.Tech ECE Gurukul kangri university 🎓</li>
+  <li><b>Marital status:</b> Married with JAVA 💖</li>
   <li>Check out my website: https://magical-tarsier-0edb1d.netlify.app/</li>
 </ul>
 
@@ -64,6 +64,6 @@
 
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
 
-<a href="mailto:rr702678@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:rahulfriends1507@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raja-raj-ba424b209/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/Rajaraj59531542"><img alt="MongoDB" src ="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
