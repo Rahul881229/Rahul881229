@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to Praduman Kumar profile!
+  Welcome to Rahul Kumar profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -22,7 +22,7 @@
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-| <img alt="pradumankumar9079's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pradumankumar9079&hide_border=true"/> | <img alt="pradumankumar9079's streak" src="https://github-readme-stats.vercel.app/api?username=pradumankumar9079&show_icons=true&count_private=true"/> |
+| <img alt="Rahulfreinds1507's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pradumankumar9079&hide_border=true"/> | <img alt="Rahulfreinds1507's streak" src="https://github-readme-stats.vercel.app/api?username=Rahulfriends1507@gmail.com&show_icons=true&count_private=true"/> |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
