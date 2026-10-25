@@ -5,9 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/pradumankumar9079?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pradumankumar9079"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fpradumankumar9079%2Fpradumankumar9079">
+  </a>
   <a href="https://github.com/pradumankumar9079?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pradumankumar9079?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pradumankumar9079?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers">
+  </a>
 </p>
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
@@ -22,8 +24,8 @@
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
-| <img alt="Rahulfreinds1507's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pradumankumar9079&hide_border=true"/> | <img alt="Rahulfreinds1507's streak" src="https://github-readme-stats.vercel.app/api?username=Rahulfriends1507@gmail.com&show_icons=true&count_private=true"/> |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| <img alt="Rahulfreinds1507's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pradumankumar9079&hide_border=true"/> | <img alt="Rahulfreinds1507's streak" src="https://github-readme-stats.vercel.app/api?username=pradumankumar9079&show_icons=true&count_private=true&hide_border=true"/> |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
@@ -60,6 +62,15 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+</p>
+
+### 🧪 Tools & testing
+
+<p>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101.svg?logo=socket.io&logoColor=white"></a>
+  <a href="#"><img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128.svg?logo=apache&logoColor=white"></a>
+  <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?logo=sonarqube&logoColor=white"></a>
 </p>
 
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
