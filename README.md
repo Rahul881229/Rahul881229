@@ -12,7 +12,7 @@
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
-  <li>I am Rahul Kumar, a 23 year old guy who loves💖 to code</li>
+  <li>I am Rahul Kumar, a 24 year old guy who loves💖 to code</li>
   <li>I am a freelance full-stack developer 🖥️</li>
   <li>Currently, scratching my head in learning DevOps 😅</li>
   <li>I am persuing my B.Tech ECE Gurukul kangri university 🎓</li>
